@@ -1,7 +1,13 @@
-Installation guide
+Installation guide to PC
 =========
  - sudo npm install -g phonegap
  - phonegap run android
+
+Installation guide to Android
+=========
+ - sudo npm install -g phonegap
+ - phonegap build android
+ - move apk file from folder /platforms/android/ant-build/ to your device
 
 Technology
 =========
